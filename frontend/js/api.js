@@ -1,5 +1,6 @@
+// DigiKhata/frontend/js/api.js
 // const API_URL = 'http://localhost:5000/api';
-const API_URL = 'https://digikhata-backend.onrender.com/api';
+const API_URL = 'https://digikhata-production.up.railway.app/api';
 
 const api = {
     // Utility for standard requests
